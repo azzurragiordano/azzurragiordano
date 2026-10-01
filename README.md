@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Azzurra
 
-<!--
-**azzurragiordano/azzurragiordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Computer Science student at Sapienza University of Rome, with a background in Mathematical Sciences for Artificial Intelligence.
 
-Here are some ideas to get you started:
+My main interests are:
+- Agentic AI and LLM-based systems
+- Generative AI and RAG
+- Machine Learning and Deep Learning
+- Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### 360° Human Fall Detection
+Pose-based fall detection from omnidirectional video using YOLO pose estimation and temporal deep-learning models.
+
+[View the project](https://github.com/azzurragiordano/fall-detection-pose-based)
+
+## Tech
+Python · PyTorch · OpenCV · scikit-learn · NumPy · Git
+
+## Currently
+Studying Computer Science at Sapienza University of Rome and building practical AI projects with a focus on intelligent agents and modern AI systems.
