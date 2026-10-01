@@ -1,10 +1,11 @@
 # Hi, I'm Azzurra
 
-MSc Computer Science student at Sapienza University of Rome, with a background in Mathematical Sciences for Artificial Intelligence.
+I'm a graduate in Mathematical Sciences for Artificial Intelligence (SMIA) from Sapienza University of Rome.
 
 My main interests are:
-- Agentic AI and LLM-based systems
-- Generative AI and RAG
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Generative AI
 - Machine Learning and Deep Learning
 - Computer Vision
 
@@ -18,5 +19,5 @@ Pose-based fall detection from omnidirectional video using YOLO pose estimation 
 ## Tech
 Python · PyTorch · OpenCV · scikit-learn · NumPy · Git
 
-## Currently
-Studying Computer Science at Sapienza University of Rome and building practical AI projects with a focus on intelligent agents and modern AI systems.
+## Currently exploring
+I'm currently deepening my knowledge independently in Retrieval-Augmented Generation (RAG) and Agentic AI, with a focus on building practical AI systems and intelligent workflows.
